@@ -8,6 +8,8 @@ public class test1
 		
 		System.out.println("hello github");
 		
+		System.out.println("test sample 3rd");
+		
 	}
 	
 
